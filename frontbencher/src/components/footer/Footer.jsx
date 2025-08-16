@@ -48,7 +48,7 @@ export default function Footer() {
                 </div>
             </div>
             <div className='bg-deep-blue text-white py-4 w-full '>
-                <p className='flex items-center justify-center font-montserrat font-normal text-sm border-none'>Copyright Academy of Technology, 2024</p>
+                <p className='flex items-center justify-center font-montserrat font-normal text-sm border-none'>Copyright developed and maintained by vistrahost.com, 2024</p>
             </div>
         </>
     )
