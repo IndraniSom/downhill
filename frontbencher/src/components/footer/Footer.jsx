@@ -19,7 +19,7 @@ export default function Footer() {
                 <div className='flex flex-col items-center sm:items-start sm:justify-center gap-[16px]'>
                     <div className='flex gap-2 sm:gap-[12px]'>
                         <SvgPhone />
-                        <p className='font-montserrat font-normal text-sm '>+91 9830161441</p>
+                        <p className='font-montserrat font-normal text-sm '>+91 1234567</p>
                     </div>
                     <div className='flex gap-[12px]'>
                         <SvgMail />
